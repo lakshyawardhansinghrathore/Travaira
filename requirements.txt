@@ -15,3 +15,7 @@ requests>=2.31.0
 
 # Environment Management
 python-dotenv>=1.0.1
+
+# Database & Checkpointing (PostgreSQL)
+psycopg[binary]>=3.1.18
+langgraph-checkpoint-postgres>=2.0.0
