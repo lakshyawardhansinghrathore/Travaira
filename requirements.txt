@@ -1,0 +1,17 @@
+# UI Framework
+streamlit>=1.32.0
+
+# Agentic Framework & LLM
+langgraph>=0.0.26
+langchain-core>=0.1.30
+langchain-groq>=0.0.1
+
+# Database & Checkpointing (PostgreSQL)
+psycopg[binary]>=3.1.18
+
+# Tools & APIs
+tavily-python>=0.3.3
+requests>=2.31.0
+
+# Environment Management
+python-dotenv>=1.0.1
