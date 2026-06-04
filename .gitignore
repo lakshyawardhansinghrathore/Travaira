@@ -1,10 +1,10 @@
 # ── Environments & Secrets ──
+langgraph_env3/
 .env
 .env.*
 .venv/
 venv/
 env/
-
 # ── Python / Cache ──
 __pycache__/
 *.py[cod]
